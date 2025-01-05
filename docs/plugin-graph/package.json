@@ -13,7 +13,7 @@
     "cytoscape": "^3.19.1",
     "cytoscape-cola": "^2.5.0",
     "cytoscape-expand-collapse": "^4.1.0",
-    "cytoscape-popper": "^2.0.0",
+    "cytoscape-popper": "^4.0.1",
     "flexsearch": "^0.7.21",
     "p-debounce": "^4.0.0",
     "tippy.js": "^6.3.1"
